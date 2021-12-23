@@ -44,3 +44,7 @@ const calldata = [
 ]
 ```
 
+# Reference
+
+The api used for match results is https://api-sports.io/documentation/basketball/v1
+
